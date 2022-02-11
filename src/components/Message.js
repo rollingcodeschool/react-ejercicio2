@@ -1,8 +1,8 @@
 import React from 'react';
 
-const Message = () => {
+const Message = (props) => {
     return (  
-            <h1>Hello world 🌎</h1> 
+            <h1>Hello {props.note} 👋</h1> 
     );
 };
 

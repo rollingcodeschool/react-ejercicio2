@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       <section className="container">
-        <Message></Message>
+        <Message note='My friend'></Message>
       </section>
     </>
   );
