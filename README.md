@@ -1,6 +1,6 @@
 # React - Ejercicio 2
 
-Creando componentes funcionales con react
+Creando componentes funcionales con react y practica de props
 
 *Ejercicio: Modificar el componente del ejercicio anterior y enviar mediante props el valor “My friend”*
 
